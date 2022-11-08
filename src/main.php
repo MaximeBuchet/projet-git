@@ -1,3 +1,5 @@
+<?php 
+$a = 1?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,3 +12,5 @@
     <h1>Hello</h1>
 </body>
 </html>
+<?php
+$a++?>
